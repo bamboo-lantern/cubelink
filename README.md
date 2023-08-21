@@ -1,2 +1,2 @@
 # cubelink
-cubelink is a Java template engine for HTML (temporary).
+cubelink is a Java template engine(temporary) for HTML.
